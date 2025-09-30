@@ -1,4 +1,9 @@
-# Measurement Tool for Google Maps JS API V3
+To generate dist file run
+```
+yarn;
+```
+
+## Measurement Tool for Google Maps JS API V3
 
 A mobile friendly measure tool for Google Maps JS API v3.
 
